@@ -14,11 +14,6 @@ import javax.transaction.UserTransaction;
 
 import de.java2enterprise.onlineshop.model.Item;
 
-/**
- * 
- * @author Alexander Salvanos
- *
- */
 @Named
 @RequestScoped
 public class SearchController implements Serializable {	
