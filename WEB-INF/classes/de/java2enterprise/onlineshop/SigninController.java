@@ -17,11 +17,6 @@ import javax.transaction.UserTransaction;
 
 import de.java2enterprise.onlineshop.model.Customer;
 
-/**
- * 
- * @author Alexander Salvanos
- *
- */
 @Named
 @SessionScoped
 public class SigninController implements Serializable {	
