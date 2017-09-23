@@ -27,11 +27,6 @@ import javax.transaction.UserTransaction;
 import de.java2enterprise.onlineshop.model.Customer;
 import de.java2enterprise.onlineshop.model.Item;
 
-/**
- * 
- * @author Alexander Salvanos
- *
- */
 @Named
 @RequestScoped
 public class SellController implements Serializable {
