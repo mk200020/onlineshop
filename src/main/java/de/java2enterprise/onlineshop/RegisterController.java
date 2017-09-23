@@ -14,11 +14,6 @@ import javax.transaction.UserTransaction;
 
 import de.java2enterprise.onlineshop.model.Customer;
 
-/**
- * 
- * @author Alexander Salvanos
- *
- */
 @Named
 @RequestScoped
 public class RegisterController implements Serializable {	
