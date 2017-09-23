@@ -13,13 +13,6 @@ import javax.persistence.OneToMany;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
-/**
- * 
- * @author Alexander Salvanos
- *
- * The persistent class for the CUSTOMER database table.
- * 
- */
 @Entity
 @Table(schema="ONLINESHOP", name="CUSTOMER")
 @NamedQuery(
